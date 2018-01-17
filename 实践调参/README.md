@@ -5,6 +5,6 @@
 本节以多位数字识别作为实践案例。
 
 ## 本节目录
-1. [实践方法论](./src/Practical Methodology.ipynb)
+1. [实践方法论](./src/Practical-Methodology.ipynb)
 1. [多位数字识别案例](./src/SVHN.ipynb)
 
